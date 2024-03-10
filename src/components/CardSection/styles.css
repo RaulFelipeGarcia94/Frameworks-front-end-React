@@ -1,0 +1,15 @@
+.content-section {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.content-section h2 {
+  color: #333;
+}
+
+.content-section p {
+  color: #666;
+}

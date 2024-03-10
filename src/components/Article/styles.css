@@ -1,0 +1,14 @@
+article {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.article-content {
+  padding: 16px;
+  flex: 1;
+  background-color: #f0f0f0;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+}
